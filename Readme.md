@@ -1,23 +1,23 @@
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/AnuranjanKumar14/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/AnuranjanKumar14/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io//main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://https://www.linkedin.com/in/AnuranjanKumar14/" target="_blank" rel="noreferrer">Anuranjan</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/AnuranjanKumar14/" target="_blank" rel="noreferrer">Anuranjan</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/AnuranjanKumar14//">
-    <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/linkedin.svg" alt="Anuranjan Kumar | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/AnuranjanKumar14/">
+    <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/linkedin.svg" alt="Anuranjan | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_Anuranjan">
+  <a href="https://instagram.com/anuranjanrai_14">
     <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/instagram.svg" alt="Anuranjan | Instagram" width="21px"/>
   </a>
-  <a href="https://wa.link/8nquvx">
+  <a href="https://wa.link/pj824v">
     <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/whatsapp.png" alt="Anuranjan | Whatsapp" width="21px"/>
   </a>
 </p>
@@ -40,6 +40,8 @@
 - Microservices Testing Automation Framework
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
+- Manual UI Testing
+- API Testing
 <p align="center">    
 <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/postmanproject.jpg" alt="Anuranjan | Whatsapp" width="500px"/> </p>
 
@@ -99,13 +101,13 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:Anuranjanvsharma@gmail.com">Anuranjanvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:Anuranjanark@gmail.com">Anuranjanark@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Anuranjanshharma//">
-    <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/linkedin.svg" alt="Anuranjan Kumar | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/AnuranjanKumar14/">
+    <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/linkedin.svg" alt="Anuranjan | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_Anuranjan">
+  <a href="https://instagram.com/anuranjanrai_14">
     <img src="https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/instagram.svg" alt="Anuranjan | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
