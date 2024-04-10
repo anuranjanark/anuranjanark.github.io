@@ -51,26 +51,15 @@
 seamless user experience and functionality across various devices which gave
 <b>20% improvement in overall software stability and performance</b>
 
--Guided and trained 5 Junior QA team members on test automation best practices,
-resulting in a  <b>40% decrease in test execution time and a 25% increase in test
-coverage </b>
+-Guided and use to train  Junior QA team members on test automation framework and its best practices resulting in a  <b>40% decrease in test execution time and a 25% increase in test
+coverage ,also use to train on Manual testing concepts and  best practices ,Agile process etc </b>
+
+-Involved in identifying the E2E scenario  <b>Creating the Reusable methods <b>creatingGeneric methods  <b>Involved in Production <b>Deployment <b>Patching Activities and in releases
+ </b>
 
 -Engineered automation scripts using Selenium and Java to increase testing
 efficiency, resulting in a<b> 40% reduction in manual testing time and a 25% increase
 in test coverage</b>
-
-
-## 💻 Framework WalkThrough
-[![Test Automation Framework Video](https://raw.githubusercontent.com/anuranjanark/anuranjanark.github.io/main/images/thumbnail.jpg)](https://youtu.be/BCaqX6XCKhw)
-
-## 💻 My Projects 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuranjanark&repo=AutomationFramework)](https://github.com/anuranjanark/AutomationFramework)
-
-[Automated Regression Testing Framework Java](https://github.com/anuranjanark/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
-
-
-
 
 ## 💼 Technical Skills
 
