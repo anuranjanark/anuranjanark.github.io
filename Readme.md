@@ -51,8 +51,8 @@
 seamless user experience and functionality across various devices which gave
 <b>20% improvement in overall software stability and performance</b>
 
--Guided and use to train  Junior QA team members on test automation framework and its best practices resulting in a  40% decrease in test execution time and a 25% increase in test
-coverage ,also use to train on Manual testing concepts and  best practices ,Agile process etc
+-Guided and use to train  Junior QA team members on test automation framework and its best practices resulting in a  <b>40% decrease in test execution time and a 25% increase in test
+coverage ,also use to train on Manual testing concepts and  best practices ,Agile process</b> etc
 
 -Involved in identifying the E2E scenario  ,Creating the Reusable methods ,creatingGeneric methods ,Involved in Production ,Deployment ,Patching Activities and in releases
 
