@@ -57,8 +57,8 @@ coverage ,also use to train on Manual testing concepts and  best practices ,Agil
 -Involved in identifying the E2E scenario  ,Creating the Reusable methods ,creatingGeneric methods ,Involved in Production ,Deployment ,Patching Activities and in releases
 
 -Engineered automation scripts using Selenium and Java to increase testing
-efficiency, resulting in a 40% reduction in manual testing time and a 25% increase
-in test coverage
+efficiency,<b> resulting in a 40% reduction in manual testing time and a 25% increase
+in test coverage</b>
 
 ## 💼 Technical Skills
 
